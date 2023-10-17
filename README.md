@@ -5,4 +5,8 @@ please note that this works as of `2023-10-17`
 feel free to add to this list or make it more efficient, due to how messy the process was 
 it probabaly is blocking somethings that might not need to be...
 
+## known issues
+
+sometimes youtube will scroll lock.. its weird if anyone can find whats locking it please feel free to help
+
 
