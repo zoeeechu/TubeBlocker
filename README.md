@@ -1,12 +1,8 @@
-# TubeBlocker
+Welcome to TubeBlocker by Zoe :D 
 
-A UBlock, Block list for youtube's new adblock popup
-please note that this works as of `2023-10-17` 
-feel free to add to this list or make it more efficient, due to how messy the process was 
-it probabaly is blocking somethings that might not need to be...
+This cleint is written in C++ and uses Thorium Browser as its base
+please go show the creator some love and support!
 
-## known issues
+IMPORTANT NOTES
 
-sometimes youtube will scroll lock.. its weird if anyone can find whats locking it please feel free to help
-
-
+- if you want to add more extensions to the client go into /src/TORIUM.BAT
