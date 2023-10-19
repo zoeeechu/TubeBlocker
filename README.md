@@ -1,6 +1,8 @@
 # TubeBlocker
 
 ### Welcome to TubeBlocker 🚀
+> this repo is for EDUCATIONAL PURPOSES ONLY
+>  If you have any concerns regarding the copyright of this repository, please contact me immediately If you wish for this repository to be taken down
 
 This client is written in `C++` and uses [Thorium Browser](https://github.com/Alex313031/Thorium) as its base.
 Please go show the creator some love and support! ✨
@@ -19,4 +21,9 @@ IMPORTANT NOTES 📃
 
 - If you want to add more extensions to the client, go into /src/THORIUM.BAT.
 > This will launch Thorium in its normal mode, and you can add whatever you would like.
+
+
+
+
+
 
